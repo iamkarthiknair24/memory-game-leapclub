@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/memory-game-leapclub/static/css/main.33627958.css",
+    "main.js": "/memory-game-leapclub/static/js/main.ff419a17.js",
+    "static/js/787.bd131126.chunk.js": "/memory-game-leapclub/static/js/787.bd131126.chunk.js",
+    "static/media/H.png": "/memory-game-leapclub/static/media/H.8a54ab948819e7a1d4da.png",
+    "static/media/F.png": "/memory-game-leapclub/static/media/F.1fc36ab41a3607005dc4.png",
+    "static/media/D.png": "/memory-game-leapclub/static/media/D.47b64b848df9f3e5a86b.png",
+    "static/media/bg-color.png": "/memory-game-leapclub/static/media/bg-color.a52f72326ba2c258efc8.png",
+    "index.html": "/memory-game-leapclub/index.html",
+    "main.33627958.css.map": "/memory-game-leapclub/static/css/main.33627958.css.map",
+    "main.ff419a17.js.map": "/memory-game-leapclub/static/js/main.ff419a17.js.map",
+    "787.bd131126.chunk.js.map": "/memory-game-leapclub/static/js/787.bd131126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33627958.css",
+    "static/js/main.ff419a17.js"
+  ]
+}
